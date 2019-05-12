@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteClient", "RemoteClient\RemoteClient.vcproj", "{7844F063-5653-4D99-AAFC-A83865A4FC8D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteServer", "RemoteServer\RemoteServer.vcproj", "{6880C104-3A82-46AA-B5E1-92D0399AF62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7844F063-5653-4D99-AAFC-A83865A4FC8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7844F063-5653-4D99-AAFC-A83865A4FC8D}.Debug|Win32.Build.0 = Debug|Win32
+		{7844F063-5653-4D99-AAFC-A83865A4FC8D}.Release|Win32.ActiveCfg = Release|Win32
+		{7844F063-5653-4D99-AAFC-A83865A4FC8D}.Release|Win32.Build.0 = Release|Win32
+		{6880C104-3A82-46AA-B5E1-92D0399AF62A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6880C104-3A82-46AA-B5E1-92D0399AF62A}.Debug|Win32.Build.0 = Debug|Win32
+		{6880C104-3A82-46AA-B5E1-92D0399AF62A}.Release|Win32.ActiveCfg = Release|Win32
+		{6880C104-3A82-46AA-B5E1-92D0399AF62A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
